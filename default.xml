@@ -14,6 +14,7 @@
     <linkfile dest="setup-environment" src="../../.repo/manifests/setup-environment"/>
   </project>
   <project name="OSSystems/meta-browser" path="layers/meta-browser" remote="github" revision="26d50665e2f7223c5f4ad7481a8d2431e7cb55fb"/>
+  <project name="WebPlatformForEmbedded/meta-wpe" path="layers/meta-wpe" remote="github" revision="16dccb5883a1d8ac931751f339f3a6cf46132e65"/>
   <project name="cpriouzeau/meta-st-cannes2" path="layers/meta-st-cannes2" remote="github"/>
   <project name="git/meta-intel" path="layers/meta-intel" remote="yocto"/>
   <project name="git/meta-ti" path="layers/meta-ti" remote="yocto"/>

@@ -11,7 +11,7 @@
   <default revision="master" sync-j="4"/>
   
   <project name="96boards/meta-96boards" path="layers/meta-96boards" remote="github" revision="1b30f8ba95bed3dbe1fea4ba5573210e4431714d"/>
-  <project name="96boards/meta-rpb" path="layers/meta-rpb" remote="github" revision="68a5c77a40f1ea73d79b92882697d99eca59a0c9" upstream="master"/>
+  <project name="petegriffin/meta-rpb" path="layers/meta-rpb" remote="github" revision="68a5c77a40f1ea73d79b92882697d99eca59a0c9" upstream="master"/>
   <project name="OSSystems/meta-browser" path="layers/meta-browser" remote="github" revision="1697014a05967ed54b294f3c4b5621df494d6551"/>
   <project name="flihp/meta-measured" path="layers/meta-measured" remote="github" revision="a110355f087ce0ad1c90a3080878de3206fe0079"/>
   <project name="git/meta-intel" path="layers/meta-intel" remote="yocto" revision="d9f0f9975d210abc409c56f205121923dae95333"/>
@@ -22,11 +22,11 @@
   </project>
   <project name="git/meta-virtualization" path="layers/meta-virtualization" remote="yocto" revision="7c42107c713abff639bc536484714f5c25f57948"/>
   <project name="kraj/meta-clang" path="layers/meta-clang" remote="github" revision="ab686950af8d7f02e0ca614d277c7c0ca36954ed"/>
-  <project name="lhg/meta-lhg-prop" path="layers/meta-lhg-prop" remote="lhg-review" revision="aaa85f6cce5d7d02e9860dd2f73950ec2699ef6a"/>
+  <project name="lhg/meta-lhg-prop" path="layers/meta-lhg-prop" remote="lhg-review" revision="c738c0ffbdf9be649addbe5a7932e073c1759f78" upstream="master"/>
   <project name="linaro-mmwg/meta-lhg" path="layers/meta-lhg" remote="github" revision="e519ef3f2020740d2b4a21dc7fe392e4a1750a30"/>
-  <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github" revision="6d65308329bcf40bd44ebe7020833921349ec896" upstream="master"/>
+  <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github" revision="1365691f40dea163bd6a1b16e128429e122d6180" upstream="master"/>
   <project name="meta-rust/meta-rust" path="layers/meta-rust" remote="github" revision="0f950f5e333a1c8999320bf18232144f3dd9c80e" upstream="master"/>
-  <project name="moorthy-bs/meta-wpe" path="layers/meta-wpe" remote="github" revision="52fd13e7ab3920eb02c04a1c7af0d11fa861ccd3" upstream="885ee532bd9f63903c46738093bb291fe1cd68a5"/>
+  <project name="WebPlatformForEmbedded/meta-wpe" path="layers/meta-wpe" remote="github" revision="43ef816adb2a722492020fda12a2b261b581b5f7" upstream="master"/>
   <project name="ndechesne/meta-qcom" path="layers/meta-qcom" remote="github" revision="623ca9feb60fc1ec04a64ce802f1486fb64b0eea"/>
   <project name="openembedded/bitbake" path="bitbake" remote="github" revision="1a026d4aca47ed1b0b74a8a818635e7520e8f9c8" upstream="1.44"/>
   <project name="openembedded/meta-backports" path="layers/meta-backports" remote="linaro" revision="60c8204ea161297d8255d44a9dc46ecbfc9a24e3" upstream="master"/>

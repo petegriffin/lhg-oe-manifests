@@ -17,7 +17,7 @@
   <project name="git/meta-intel" path="layers/meta-intel" remote="yocto" revision="d9f0f9975d210abc409c56f205121923dae95333"/>
   <project name="git/meta-selinux" path="layers/meta-selinux" remote="yocto" revision="dc8c5e90ec7adebb4c5f3e31bdfb14fc89d63b0e"/>
   <project name="git/meta-ti" path="layers/meta-ti" remote="yocto" revision="aecb431a600c122487e6eccdfe30251eafb14d99"/>
-  <project name="96boards/oe-rpb-manifest" path="conf" remote="github">
+  <project name="linaro-mmwg/lhg-oe-manifests" path="conf" remote="github">
     <linkfile dest="setup-environment" src="setup-environment-internal"/>
   </project>
   <project name="git/meta-virtualization" path="layers/meta-virtualization" remote="yocto" revision="7c42107c713abff639bc536484714f5c25f57948"/>
